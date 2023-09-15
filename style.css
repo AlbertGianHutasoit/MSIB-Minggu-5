@@ -1,0 +1,107 @@
+.cont {
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 50px;
+    display: flex;
+}
+
+.model {
+    width: 50%;
+}
+
+.model1 {
+    width: 100%;
+}
+
+.tampilan_login {
+    width: 50%;
+}
+
+.login{
+border-style: solid;
+border-color: #f0f0f0;
+border-width: 3px;
+text-align: center;
+margin-bottom: 10px;
+}
+
+.login2{
+border-style: solid;
+border-color: #f0f0f0;
+border-width: 3px;
+text-align: center;
+}
+
+.login3{
+    margin-top: 15px;
+    text-align: center;
+
+}
+
+.logo{
+    width: 170px;
+    margin-top: 15px;
+}
+
+.form{
+margin-top: 30px;
+}
+
+.input{
+    width: 300px;
+    height: 20px;
+    border: 1px solid grey;
+    padding: 5px;
+    margin-top: 8px;
+    border-radius: 4px;
+}
+
+.log{
+    background-color: rgb(40, 88, 191);
+    border: 0 solid transparent;
+    margin-top: 30px;
+    width: 310px;
+    height: 30px;
+    border-radius: 4px;
+}
+
+.logoapp{
+    width: 300px;
+    height: 50px;
+}
+
+h5{
+    color: grey;
+}
+
+.signup{
+    color: rgb(40, 88, 191);
+    text-decoration: none;
+}
+
+.navbar{
+    float: left;
+    background-color:white;
+    width: 100%;
+}
+
+.navbar li{
+    float: left;
+    list-style: none;
+}
+
+.navbar li a{
+    color: grey;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.boxbawah{
+    width: 100%
+}
