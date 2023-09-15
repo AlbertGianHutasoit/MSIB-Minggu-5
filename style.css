@@ -17,37 +17,37 @@
     width: 50%;
 }
 
-.login{
-border-style: solid;
-border-color: #f0f0f0;
-border-width: 3px;
-text-align: center;
-margin-bottom: 10px;
+.login {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 3px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
-.login2{
-border-style: solid;
-border-color: #f0f0f0;
-border-width: 3px;
-text-align: center;
+.login2 {
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 3px;
+    text-align: center;
 }
 
-.login3{
+.login3 {
     margin-top: 15px;
     text-align: center;
 
 }
 
-.logo{
+.logo {
     width: 170px;
     margin-top: 15px;
 }
 
-.form{
-margin-top: 30px;
+.form {
+    margin-top: 30px;
 }
 
-.input{
+.input {
     width: 300px;
     height: 20px;
     border: 1px solid grey;
@@ -56,7 +56,7 @@ margin-top: 30px;
     border-radius: 4px;
 }
 
-.log{
+.log {
     background-color: rgb(40, 88, 191);
     border: 0 solid transparent;
     margin-top: 30px;
@@ -65,32 +65,32 @@ margin-top: 30px;
     border-radius: 4px;
 }
 
-.logoapp{
+.logoapp {
     width: 300px;
     height: 50px;
 }
 
-h5{
+h5 {
     color: grey;
 }
 
-.signup{
+.signup {
     color: rgb(40, 88, 191);
     text-decoration: none;
 }
 
-.navbar{
+.navbar {
     float: left;
-    background-color:white;
+    background-color: white;
     width: 100%;
 }
 
-.navbar li{
+.navbar li {
     float: left;
     list-style: none;
 }
 
-.navbar li a{
+.navbar li a {
     color: grey;
     text-decoration: none;
     padding-left: 20px;
@@ -102,6 +102,6 @@ h5{
     text-align: center;
 }
 
-.boxbawah{
+.boxbawah {
     width: 100%
 }
